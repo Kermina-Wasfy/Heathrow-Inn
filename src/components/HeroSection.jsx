@@ -2,6 +2,7 @@ import leftImage from "../assets/hands-taking-food.jpg";
 import rightImage from "../assets/table-image.png";
 import leftDeco from "../assets/left-deco.png";
 import rightDeco from "../assets/right-deco.png";
+import logo from "../assets/logo.png";
 
 export default function HeroSection() {
   return (
