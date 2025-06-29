@@ -571,7 +571,8 @@ hr {
   .slider-arrow:hover,
   .slider-arrow:focus {
     background-color: #595959;
-    outline: none;
+    outline: none !important;
+    box-shadow: none !important;
   }
 
   .slider-arrow:disabled {
