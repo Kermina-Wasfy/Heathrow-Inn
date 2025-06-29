@@ -1,12 +1,14 @@
 # Heathrow Inn
 A responsive hotel website built with **React.js** and **Bootstrap 5**.  
-It includes a clean, modern UI for hotel services, rooms, gallery, and contact information.
+It includes a clean, modern UI for hotel services, rooms, gallery, contact information, and about information.
 
 ## Features
+- Responsive design for mobile and desktop
+- Navbar for navigation
 - Beautiful hero section with background image
 - Rooms and services cards
 - Gallery section
-- Responsive design for mobile and desktop
+- Form for contact
 - Social media integration
 
 ## Screenshots
@@ -14,38 +16,38 @@ It includes a clean, modern UI for hotel services, rooms, gallery, and contact i
 ### Desktop View
 
 #### Hero Section
-![hero section Screenshot](./screenshots/hero section.png)
+![Hero Section Screenshot](./screenshots/hero-section.png)
 #### Amenities Section
-![amenities section Screenshot](./screenshots/amenities section.png)
+![Amenities Section Screenshot](./screenshots/amenities-section.png)
 #### Rooms Section
-![rooms section Screenshot](./screenshots/rooms section.png)
+![Rooms Section Screenshot](./screenshots/rooms-section.png)
 #### Morjana Lounge Section
-![morjana lounge section Screenshot](./screenshots/morjana lounge section.png)
+![Morjana Lounge Section Screenshot](./screenshots/morjana-lounge-section.png)
 #### Conatct Us Section
-![conatct us section Screenshot](./screenshots/contact us section.png)
+![Conatct Us Section Screenshot](./screenshots/contact-us-section.png)
 #### Gallery Section
-![gallery section Screenshot](./screenshots/gallery section.png)
+![Gallery Section Screenshot](./screenshots/gallery-section.png)
 #### About Us Section
-![about us section Screenshot](./screenshots/about us section.png)
+![About Us Section Screenshot](./screenshots/about-us-section.png)
 
 ### Mobile View
 
 #### Hero Section
-![hero section Screenshot](./screenshots/hero mobile.png)
+![Hero Section Screenshot](./screenshots/hero-mobile.png)
 #### Amenities Section
-![amenities section Screenshot](./screenshots/amenities mobile.png)
+![Amenities Section Screenshot](./screenshots/amenities-mobile.png)
 #### Rooms Section
-![rooms section Screenshot](./screenshots/rooms mobile.png)
+![Rooms Section Screenshot](./screenshots/rooms-mobile.png)
 #### Morjana Lounge Section
-![morjana lounge section Screenshot](./screenshots/morjana mobile.png)
+![Morjana Lounge Section Screenshot](./screenshots/morjana-mobile.png)
 #### Contact Us Section
-![contact us section Screenshot](./screenshots/contact us mobile.png)
+![Contact Us Section Screenshot](./screenshots/contact-us-mobile.png)
 #### Gallery Section
-![gallery section Screenshot](./screenshots/gallery mobile.png)
+![Gallery Section Screenshot](./screenshots/gallery-mobile.png)
 #### About us Section
-![About us section Screenshot](./screenshots/about us mobile.png)
+![About Us Section Screenshot](./screenshots/about-us-mobile.png)
 #### Footer
-![footer Screenshot](./screenshots/footer mobile.png)
+![Footer Screenshot](./screenshots/footer-mobile.png)
 
 ## Technologies
 - React.js
