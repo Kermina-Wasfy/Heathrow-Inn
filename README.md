@@ -7,11 +7,11 @@ It includes a clean, modern UI for hotel services, rooms, gallery, contact infor
 - Navbar for navigation
 - Multi-section Landing Page:
   - Beautiful hero section with background image
-  - About Us
-  - Rooms Showcase
   - Services
-  - Gallery
+  - Rooms Showcase
   - Contact Form with Social Icons
+  - Gallery
+  - About Us
 - Social media integration
 - Rooms Slider on mobile
 - Custom Styled Buttons and Icons

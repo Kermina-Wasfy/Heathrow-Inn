@@ -76,25 +76,28 @@ export default function RoomsSection() {
       </div>
 
       {/* for mobile */}
-      <div className="d-md-none">
-        <RoomCard {...rooms[currentRoomIndex]} />
-        <div className="room-slider-arrows">
-          <button
-            className="slider-arrow-custom"
-            onClick={handlePrev}
-            disabled={currentRoomIndex === 0}
-          >
-            &lt;
-          </button>
-          <button
-            className="slider-arrow-custom"
-            onClick={handleNext}
-            disabled={currentRoomIndex === rooms.length - 1}
-          >
-            &gt;
-          </button>
-        </div>
-      </div>
+<div className="d-md-none">
+  <div className="d-flex justify-content-center">
+    <RoomCard {...rooms[currentRoomIndex]} />
+  </div>
+  <div className="room-slider-arrows">
+    <button
+      className="slider-arrow-custom"
+      onClick={handlePrev}
+      disabled={currentRoomIndex === 0}
+    >
+      &lt;
+    </button>
+    <button
+      className="slider-arrow-custom"
+      onClick={handleNext}
+      disabled={currentRoomIndex === rooms.length - 1}
+    >
+      &gt;
+    </button>
+  </div>
+</div>
+
     </section>
   );
 }
