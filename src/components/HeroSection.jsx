@@ -26,9 +26,9 @@ export default function HeroSection() {
 
       {/* title and description */}
       <div className="d-flex flex-column align-items-center justify-content-center position-relative title-desc text-center mx-auto">
-        {/* logo */}
+        {/* logo for mobile */}
         <img
-          src="/src/assets/logo.png"
+          src={logo}
           alt="Logo"
           className="d-md-none mb-3 logo-mob img-fluid"
         />

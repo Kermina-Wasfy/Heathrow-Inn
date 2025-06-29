@@ -20,7 +20,7 @@ It includes a clean, modern UI for hotel services, rooms, gallery, contact infor
 - Smooth scroll & section linking
 
 ## Live Demo
-[https://heathrow-inn.vercel.app](https://heathrow-inn.vercel.app)
+[https://heathrow-inn-home.vercel.app/](https://heathrow-inn-home.vercel.app/)
 
 ## Screenshots
 
