@@ -1,15 +1,23 @@
 # Heathrow Inn
-A responsive hotel website built with **React.js** and **Bootstrap 5**.  
+A responsive hotel website built with **React.js**, **Vite** and **Bootstrap 5**.  
 It includes a clean, modern UI for hotel services, rooms, gallery, contact information, and about information.
 
 ## Features
 - Responsive design for mobile and desktop
 - Navbar for navigation
-- Beautiful hero section with background image
-- Rooms and services cards
-- Gallery section
-- Form for contact
+- Multi-section Landing Page:
+  - Beautiful hero section with background image
+  - About Us
+  - Rooms Showcase
+  - Services
+  - Gallery
+  - Contact Form with Social Icons
 - Social media integration
+- Rooms Slider on mobile
+- Custom Styled Buttons and Icons
+- Image-based layout with gradients & layering
+- Google Fonts & Custom Icons
+- Smooth scroll & section linking
 
 ## Screenshots
 
@@ -51,8 +59,11 @@ It includes a clean, modern UI for hotel services, rooms, gallery, contact infor
 
 ## Technologies
 - React.js
+- Vite
 - Bootstrap 5
-- HTML5 + CSS3
+- HTML5 
+- CSS3
+- Google Fonts
 
 ## Author
 [Kermina Wasfy](https://github.com/Kermina-Wasfy)
